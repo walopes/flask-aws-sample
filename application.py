@@ -3,5 +3,5 @@ application = Flask(__name__)
 
 @application.route('/')
 def hello_world():
-    return 'Hello there!'
+    return 'Alô povo de Cascavel, PR'
 
